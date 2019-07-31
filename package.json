@@ -1,0 +1,24 @@
+{
+  "name": "need-for-less-speed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^5.11.11",
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^5.11.11",
+    "@wdio/mocha-framework": "^5.11.0",
+    "@wdio/spec-reporter": "^5.11.7",
+    "@wdio/sync": "^5.11.11",
+    "chromedriver": "^75.1.0",
+    "wdio-chromedriver-service": "^5.0.2"
+  }
+}
